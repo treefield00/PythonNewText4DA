@@ -1,1 +1,3 @@
 # PythonNewText4DA
+
+Python3エンジニア認定データ分析試験を受験したときに、テキストのChapter4のコードを書いたもの。
